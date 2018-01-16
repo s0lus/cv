@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Alexander Mashchenko",
+    "label": "Developer",
+    "picture": "",
+    "email": "mashenkoalex@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Saint-Petersburg",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": ""
+    },
+    {
+      "language": "English",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": []
+}
