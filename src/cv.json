@@ -1,12 +1,11 @@
 {
-  "basics": {
+  "profile": {
     "name": "Alexander Mashchenko",
     "label": "Developer",
-    "picture": "",
+    "avatar": "https://image.ibb.co/mzRdbm/Gunter.png",
     "email": "mashenkoalex@gmail.com",
-    "phone": "",
-    "website": "",
-    "summary": "",
+    "github": "https://github.com/s0lus",
+    "about": "TEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXT",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,48 +15,62 @@
     },
     "profiles": []
   },
-  "work": [],
-  "volunteer": [],
-  "education": [],
-  "awards": [],
-  "publications": [],
+  "work": [
+    {
+      "company": "Company 1",
+      "position": "Position 1",
+      "website": "website",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "summary",
+      "tech_stack": []
+    },
+    {
+      "company": "Company 1",
+      "position": "Position 1",
+      "website": "website",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "summary",
+      "tech_stack": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "BGPU",
+      "area": "area",
+      "studyType": "Bachelor (hons)",
+      "startDate": "1994-08-01",
+      "endDate": "1998-07-01"
+    }
+  ],
   "skills": [
     {
       "name": "Git",
-      "level": "",
-      "keywords": []
+      "level": ""
     },
     {
       "name": "PHP",
-      "level": "",
-      "keywords": []
+      "level": ""
     },
     {
       "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": []
+      "level": ""
     }
   ],
   "languages": [
     {
       "language": "Russian",
-      "fluency": ""
+      "level": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": ""
+      "level": ""
     }
   ],
+  "awards": [],
+  "publications": [],
   "interests": [],
-  "references": []
+  "references": [],
+  "volunteer": []
 }

@@ -1,19 +1,23 @@
-import React, { Component } from 'react';
+
+import React, { PureComponent } from 'react';
 
 import './App.css';
 
-class App extends Component {
+import { Profile, Work, Education, Skills } from '../index';
+
+export default class App extends PureComponent {
+
   render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-        </p>
-      </div>
-    );
+
+      const { profile, work, education, skills } = this.props.cv;
+
+      return (
+          <div className='container'>
+              <Profile profile={profile} />
+              <Work work={work} />
+              <Education education={education} />
+              <Skills skills={skills} />
+          </div>
+      );
   }
 }
-
-export default App;

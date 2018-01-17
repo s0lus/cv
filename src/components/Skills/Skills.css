@@ -1,0 +1,8 @@
+.skills-container {
+    display: flex;
+    height: 95%;
+    width: 950px;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
