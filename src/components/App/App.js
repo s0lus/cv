@@ -3,7 +3,7 @@ import React, { PureComponent } from 'react';
 
 import './App.css';
 
-import { Profile, Work, Education, Skills } from '../index';
+import { Profile, Work, Education, Skills, About } from '../index';
 
 export default class App extends PureComponent {
 
@@ -14,6 +14,7 @@ export default class App extends PureComponent {
       return (
           <div className='container'>
               <Profile profile={profile} />
+              <About about={profile.about} />
               <Work work={work} />
               <Education education={education} />
               <Skills skills={skills} />

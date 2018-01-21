@@ -1,31 +1,44 @@
 .profile-container {
     display: flex;
+    flex: 1;
     height: 95%;
-    width: 950px;
+    width: 1000px;
+    padding: 20px;
     align-items: center;
+    background-color: #FFFFFF;
+}
+
+.name-position-text {
+    text-align: center;
+}
+
+.location-email {
+    text-align: center;
+}
+
+.avatar {
+    border-radius: 250px;
+}
+
+.email-to {
+    text-decoration: none;
+}
+
+.left {
+    flex: 0.5;
+}
+
+.avatar-wrapper {
+    display: flex;
     justify-content: center;
-    background-color: yellow;
 }
 
-.wrapper {
+.right {
     flex: 0.5;
-    display: flex;
-    flex-direction: column;
-    margin-left: 75px;
+    justify-content: center;
 }
 
-.about-wrapper {
-    flex: 0.5;
-    display: flex;
+.summary {
+    margin-top: 25px;
+    text-align: center;
 }
-
-.about {
-    width: 350px;
-    word-wrap: break-word;
-}
-
-/*span {*/
-    /*display: block;*/
-    /*width: 150px;*/
-    /*word-wrap: break-word;*/
-/*}*/

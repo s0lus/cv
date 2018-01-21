@@ -12,7 +12,7 @@ export class WorkItem extends PureComponent {
                     <p>{this.props.work.startDate} - {this.props.work.endDate}</p>
                     <h4>{this.props.work.position}</h4>
                     <a href={this.props.work.website}>{this.props.work.website}</a>
-                    <p className='summary'>{this.props.work.summary}</p>
+                    <p className='summary-work'>{this.props.work.summary}</p>
                 </span>
             </div>
         )

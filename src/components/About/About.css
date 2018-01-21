@@ -1,0 +1,12 @@
+.about-container {
+    display: block;
+    padding: 20px;
+    height: 95%;
+    width: 1000px;
+    background-color: #FFFFFF;
+}
+
+.about {
+    width: 350px;
+    word-wrap: break-word;
+}
