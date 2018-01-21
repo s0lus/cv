@@ -6,12 +6,27 @@ import './Education.css';
 export default class Education extends PureComponent {
 
     render() {
-        console.log(this.props);
+        const { education } = this.props;
+
         return (
             <div className='education-container'>
-                <p>{this.props.education[0].institution}</p>
-                <p>{this.props.education[0].area}</p>
-                <p>{this.props.education[0].studyType}</p>
+                <h2 className='text-uppercase'>
+                    <i className="fa fa-lg fa-mortar-board"/>
+                    <span>Education</span>
+                </h2>
+
+                {
+                    education.map(
+                        (education) => (
+                            <text className='education-text'>
+                                <h3>{education.institution}</h3>
+                                <h3>{education.area}</h3>
+                                <h4>{education.studyType}</h4>
+                                Studied: {education.startDate} - {education.endDate}
+                            </text>
+                        )
+                    )
+                }
             </div>
         )
     }
