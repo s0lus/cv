@@ -1,1 +1,19 @@
+ul {
+    list-style: none;
+}
 
+li {
+    font-size: 18px;
+    display: inline;
+    margin: 5px;
+}
+
+.label {
+    padding: 5px;
+    border-radius: 15px;
+    background-color: #5CB85C;
+}
+
+.skill-item {
+    line-height: 2.5em;
+}

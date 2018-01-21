@@ -7,9 +7,19 @@ export class SkillItem extends PureComponent {
 
     render() {
         return (
-            <div className='skill-item'>
-                {this.props.skills.map((skill) => skill.name)}
-            </div>
+            <ul className='skill-item'>
+                {
+                    this.props.skills.map(
+                        (skill, index) => (
+                            <li key={index}>
+                                <span className="label label-success">
+                                    {skill.name}
+                                </span>
+                            </li>
+                        )
+                    )
+                }
+            </ul>
         )
     }
 }

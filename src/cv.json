@@ -56,6 +56,34 @@
     {
       "name": "JavaScript",
       "level": ""
+    },
+    {
+      "name": "GO",
+      "level": ""
+    },
+    {
+      "name": "C/C++",
+      "level": ""
+    },
+    {
+      "name": "Ubuntu",
+      "level": ""
+    },
+    {
+      "name": "Github/Gitlab",
+      "level": ""
+    },
+    {
+      "name": "Jira",
+      "level": ""
+    },
+    {
+      "name": "MySQL",
+      "level": ""
+    },
+    {
+      "name": "ReactJS/React-Native",
+      "level": ""
     }
   ],
   "languages": [

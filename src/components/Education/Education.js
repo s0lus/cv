@@ -17,13 +17,13 @@ export default class Education extends PureComponent {
 
                 {
                     education.map(
-                        (education) => (
-                            <text className='education-text'>
+                        (education, index) => (
+                            <span key={index} className='education-text'>
                                 <h3>{education.institution}</h3>
                                 <h3>{education.area}</h3>
                                 <h4>{education.studyType}</h4>
                                 Studied: {education.startDate} - {education.endDate}
-                            </text>
+                            </span>
                         )
                     )
                 }

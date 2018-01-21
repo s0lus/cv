@@ -1,8 +1,17 @@
 .skills-container {
-    display: flex;
+    display: block;
     height: 95%;
-    width: 950px;
-    align-items: center;
-    justify-content: center;
-    background-color: blue;
+    padding: 20px;
+    width: 1000px;
+    background-color: #FFFFFF;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+}
+
+.fa {
+    margin-right: 8px;
+    margin-bottom: 8px;
 }
