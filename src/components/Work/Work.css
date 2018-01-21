@@ -1,6 +1,7 @@
 .work-container {
     display: block;
     height: 95%;
-    width: 950px;
-    background-color: green;
+    width: 1000px;
+    padding: 20px;
+    background-color: #FFFFFF;
 }

@@ -1,4 +1,12 @@
 .work-item {
     display: block;
-    text-align: center;
+    text-align: left;
+}
+
+.summary {
+    line-height: 1.25em;
+}
+
+.work-item-text {
+    line-height: 0.5em;
 }

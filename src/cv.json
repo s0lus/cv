@@ -17,21 +17,19 @@
   },
   "work": [
     {
-      "company": "Company 1",
-      "position": "Position 1",
-      "website": "website",
-      "startDate": "2016-08-01",
-      "endDate": "",
-      "summary": "summary",
-      "tech_stack": []
+      "company": "Blagoveshchensk Government Pedagogical University (BGPU)",
+      "position": "Engineer",
+      "startDate": "Sep, 2015",
+      "endDate": "Feb, 2016",
+      "summary": "Introduction and maintenance of software for the automation of the educational process in BGPU. Provision of consulting services for equipping the departments and departments of BGPU with hardware and software. Providing the possibility of access of employees of the BGPU to network resources. Maintenance of operability and operation of hardware-software complexes of university-wide computer classes. Technical and service maintenance of computer facilities, office equipment and network equipment."
     },
     {
-      "company": "Company 1",
-      "position": "Position 1",
-      "website": "website",
-      "startDate": "2016-08-01",
-      "endDate": "",
-      "summary": "summary",
+      "company": "Interpals",
+      "position": "Developer",
+      "website": "",
+      "startDate": "Oct, 2016",
+      "endDate": "Present",
+      "summary": "",
       "tech_stack": []
     }
   ],
