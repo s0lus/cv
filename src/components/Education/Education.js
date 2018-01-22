@@ -9,7 +9,7 @@ export default class Education extends PureComponent {
         const { education } = this.props;
 
         return (
-            <div className='education-container'>
+            <section className='education-container'>
                 <h2 className='text-uppercase'>
                     <i className="fa fa-lg fa-mortar-board"/>
                     <span>Education</span>
@@ -27,7 +27,7 @@ export default class Education extends PureComponent {
                         )
                     )
                 }
-            </div>
+            </section>
         )
     }
 }

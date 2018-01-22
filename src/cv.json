@@ -2,7 +2,7 @@
   "profile": {
     "name": "Alexander Mashchenko",
     "position": "Developer",
-    "summary": "Hey! I am full stack web developer Who loves computer science and hipster technologies. The best way to know me will be researching on Github's profile.Hey! I am full stack web developer Who loves computer science and hipster technologies. The best way to know me will be researching on Github's profile.Hey! I am full stack web developer Who loves computer science and hipster technologies. The best way to know me will be researching on Github's profile.Hey! I am full stack web developer Who loves computer science and hipster technologies. The best way to know me will be researching on Github's profile.",
+    "summary": "Hey! My name is Alexander. I am glad to greet you. I developer, who loves new technologies, computer hardware and programming!",
     "avatar": "https://scontent-arn2-1.cdninstagram.com/vp/50b523d1970e294dcf707d92fbe6a9a1/5B029CA4/t51.2885-15/e35/13167471_1168538953198480_687125853_n.jpg",
     "email": "mashenkoalex@gmail.com",
     "about": "TEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXT",
@@ -11,7 +11,9 @@
     },
     "profiles": [
       {
-        "github": "https://github.com/s0lus"
+        "github": "https://github.com/s0lus",
+        "skype": "skype:alex_mr.?chat",
+        "twitter": "https://twitter.com/s0lus78"
       }
     ]
   },
@@ -44,44 +46,49 @@
   ],
   "skills": [
     {
-      "name": "Git",
-      "level": ""
+      "name": "Git"
     },
     {
-      "name": "PHP",
-      "level": ""
+      "name": "PHP"
     },
     {
-      "name": "JavaScript",
-      "level": ""
+      "name": "JavaScript"
     },
     {
-      "name": "GO",
-      "level": ""
+      "name": "GO"
     },
     {
-      "name": "C/C++",
-      "level": ""
+      "name": "C/C++"
     },
     {
-      "name": "Ubuntu",
-      "level": ""
+      "name": "Ubuntu"
     },
     {
-      "name": "Github/Gitlab",
-      "level": ""
+      "name": "Github/Gitlab"
     },
     {
-      "name": "Jira",
-      "level": ""
+      "name": "Jira"
     },
     {
-      "name": "MySQL",
-      "level": ""
+      "name": "MySQL"
     },
     {
-      "name": "ReactJS/React-Native",
-      "level": ""
+      "name": "ReactJS"
+    },
+    {
+      "name": "React-Native"
+    },
+    {
+      "name": "Vagrant"
+    },
+    {
+      "name": "VMWare"
+    },
+    {
+      "name": "ElasticSearch"
+    },
+    {
+      "name": "NPM"
     }
   ],
   "languages": [

@@ -14,8 +14,8 @@ export default class Profile extends PureComponent {
                             className='avatar'
                             src={this.props.profile.avatar}
                             alt={''}
-                            height={260}
-                            width={260}
+                            height={200}
+                            width={200}
                         />
                     </div>
                     <div className='name-position-text'>
@@ -34,15 +34,17 @@ export default class Profile extends PureComponent {
                 </div>
 
                 <div className='right'>
-                    <span>{this.props.profile.summary}</span>
+                    <span className='summary-text'>{this.props.profile.summary}</span>
                     <div className='summary'>
-                        <i className='fa fa-twitter fa-3x'/>
-                        <i className='fa fa-skype fa-3x'/>
-
+                        <a href={this.props.profile.profiles[0].twitter}>
+                            <i className='fa fa-twitter fa-3x'/>
+                        </a>
+                        <a href={this.props.profile.profiles[0].skype}>
+                            <i className='fa fa-skype fa-3x'/>
+                        </a>
                         <a href={this.props.profile.profiles[0].github}>
                             <i className='fa fa-github fa-3x'/>
                         </a>
-                        <i className='fa fa-google-plus fa-3x'/>
                     </div>
                 </div>
             </section>

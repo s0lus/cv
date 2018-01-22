@@ -39,6 +39,11 @@
 }
 
 .summary {
-    margin-top: 25px;
+    margin-top: 45px;
+    margin-right: 25px;
     text-align: center;
+}
+
+.summary-text {
+    font-size: 24px;
 }

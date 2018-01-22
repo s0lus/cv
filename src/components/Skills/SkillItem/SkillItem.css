@@ -3,17 +3,18 @@ ul {
 }
 
 li {
-    font-size: 18px;
-    display: inline;
+    display: inline-block;
     margin: 5px;
 }
 
 .label {
+    font-size: 16px;
     padding: 5px;
     border-radius: 15px;
-    background-color: #5CB85C;
+    background-color: #65b847;
 }
 
 .skill-item {
     line-height: 2.5em;
+    padding-left: 0;
 }

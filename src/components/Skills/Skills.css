@@ -1,8 +1,8 @@
 .skills-container {
     display: block;
-    height: 95%;
     padding: 20px;
     width: 1000px;
+    margin-top: 8px;
     background-color: #FFFFFF;
 }
 
